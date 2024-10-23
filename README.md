@@ -2,6 +2,11 @@
 
 Organiza tus commits de manera más clara y expresiva con estos emojis. Cada categoría está diseñada para ayudarte a identificar rápidamente el tipo de cambios realizados.
 
+Ejemplo : 
+```
+git commit -m ":sparkles: Añadir función de búsqueda avanzada con filtros personalizados"
+```
+
 ## 📈 Funcionalidades y Mejoras
 
 | Emoji | Código | Tipo |
@@ -16,15 +21,6 @@ Organiza tus commits de manera más clara y expresiva con estos emojis. Cada cat
 | 🎉 | ```:tada:``` | Inicio de proyecto |
 | 🔩 | ```:nut_and_bolt:``` | Configuración |
 
-Ejemplo (ES): 
-```
-git commit -m ":sparkles: Añadir función de búsqueda avanzada con filtros personalizados"
-```
-Example (EN): 
-```
-git commit -m ":sparkles: Add advanced search function with custom filters"
-```
-
 ## 🐛 Correcciones de Errores
 
 | Emoji | Código | Tipo |
@@ -34,15 +30,6 @@ git commit -m ":sparkles: Add advanced search function with custom filters"
 | 🩹 | ```:adhesive_bandage:``` | Corrección simple |
 | 🔇 | ```:mute:``` | Corrección de logs innecesarios |
 
-
-Ejemplo (ES): 
-```
-git commit -m ":bug: Corregir error de validación en formulario de registro"
-```
-Example (EN): 
-```
-git commit -m ":bug: Fix validation error in registration form"
-```
 
 ## 📚 Documentación
 
@@ -55,14 +42,6 @@ git commit -m ":bug: Fix validation error in registration form"
 | 🌐 | ```:globe_with_meridians:``` | Enlaces en la documentación |
 | 📊 | ```:bar_chart:``` | Diagramas o estadísticas |
 
-Ejemplo (ES): 
-```
-git commit -m ":books: Actualizar documentación de la API con nuevos endpoints"
-```
-Example (EN): 
-```
-git commit -m ":books: Update API documentation with new endpoints"
-```
 
 ## 💎 Estilos de Código y Refactorización
 
@@ -75,16 +54,6 @@ git commit -m ":books: Update API documentation with new endpoints"
 | 🚚 | ```:truck:``` | Mover/Renombrar archivos |
 | 👕 | ```:shirt:``` | Linting (corrección de estilo) |
 
-
-Ejemplo (ES): 
-```
-git commit -m ":hammer: Refactorizar módulo de autenticación para mejorar reutilización"
-```
-Example (EN): 
-```
-git commit -m ":hammer: Refactor authentication module to improve reusability"
-```
-
 ## 🚨 Pruebas
 
 | Emoji | Código | Tipo |
@@ -96,14 +65,6 @@ git commit -m ":hammer: Refactor authentication module to improve reusability"
 | 🤖 | ```:robot:``` | Pruebas automatizadas |
 | 🧭 | ```:compass:``` | Pruebas de exploración |
 
-Ejemplo (ES): 
-```
-git commit -m ":rotating_light: Añadir pruebas unitarias para el módulo de pagos"
-```
-Example (EN): 
-```
-git commit -m ":rotating_light: Add unit tests for payment module"
-```
 
 ## 📦 Construcción y Dependencias
 
@@ -116,14 +77,6 @@ git commit -m ":rotating_light: Add unit tests for payment module"
 | ⬇️ | ```:arrow_down:``` | Degradar dependencias |
 | 📌 | ```:pushpin:``` | Fijar versiones de dependencias |
 
-Ejemplo (ES):
-```
-git commit -m ":package: Actualizar dependencias de producción"
-```
-Example (EN):
-```
-git commit -m ":package: Update production dependencies"
-```
 
 ## 🚀 Despliegue y CI/CD
 
@@ -137,14 +90,6 @@ git commit -m ":package: Update production dependencies"
 | 🏷️ | ```:label:``` | Versión o release |
 | 🚢 | ```:ship:``` | Entrega de código |
 
-Ejemplo (ES): 
-```
-git commit -m ":rocket: Desplegar versión 2.0 en producción"
-```
-Example (EN): 
-```
-git commit -m ":rocket: Deploy version 2.0 to production"
-```
 
 ## 🛡️ Seguridad
 
@@ -157,14 +102,6 @@ git commit -m ":rocket: Deploy version 2.0 to production"
 | 🔑 | ```:key:``` | Autenticación |
 | 🛂 | ```:passport_control:``` | Autorización |
 
-Ejemplo (ES): 
-```
-git commit -m ":shield: Implementar autenticación de dos factores"
-```
-Example (EN): 
-```
-git commit -m ":shield: Implement two-factor authentication"
-```
 
 ## 🏗️ Infraestructura
 
@@ -176,14 +113,6 @@ git commit -m ":shield: Implement two-factor authentication"
 | 🖥️ | ```:desktop_computer:``` | Servidores |
 | 🔌 | ```:electric_plug:``` | Conexiones eléctricas o de red |
 
-Ejemplo (ES): 
-```
-git commit -m ":building_construction: Migrar base de datos a sistema distribuido"
-```
-Example (EN):
-```
-git commit -m ":building_construction: Migrate database to distributed system"
-```
 
 ## 🛠️ Mantenimiento
 
@@ -193,14 +122,6 @@ git commit -m ":building_construction: Migrate database to distributed system"
 | 📤 | ```:outbox_tray:``` | Migración de datos |
 | 🔧 | ```:wrench:``` | Ajustes menores |
 
-Ejemplo (ES): 
-```
-git commit -m ":hammer_and_wrench: Mantenimiento del servidor y limpieza de archivos antiguos"
-```
-Example (EN): 
-```
-git commit -m ":hammer_and_wrench: Server maintenance and cleanup of old files"
-```
 
 ## ⚡ Optimización
 
@@ -211,14 +132,6 @@ git commit -m ":hammer_and_wrench: Server maintenance and cleanup of old files"
 | 📉 | ```:chart_with_downwards_trend:``` | Reducción de recursos o costes |
 | ⏱️ | ```:stopwatch:``` | Mejora de tiempos de respuesta |
 
-Ejemplo (ES):
-```
-git commit -m ":zap: Optimizar consultas de base de datos para reducir tiempos de carga"
-```
-Example (EN): 
-```
-git commit -m ":zap:` Optimize database queries to reduce loading times"
-```
 
 ## 🗑️ Remoción de Características
 
@@ -229,14 +142,7 @@ git commit -m ":zap:` Optimize database queries to reduce loading times"
 | ❌ | ```:x:``` | Remoción total |
 | 🚫 | ```:no_entry_sign:``` | Bloquear acceso o uso |
 
-Ejemplo (ES): 
-```
-git commit -m ":wastebasket: Eliminar función de chat obsoleta"
-```
-Example (EN): 
-```
-git commit -m ":wastebasket: Remove obsolete chat feature"
-```
+
 
 ---
 gperzal/GitCommitEmoji
