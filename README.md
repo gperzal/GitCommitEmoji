@@ -1,149 +1,186 @@
-# Guía de Emojis para Commits de Git
+# 🚀✨ Guía de Emojis para Commits de Git
 
-Organiza tus commits de manera más clara y expresiva con estos emojis. Cada categoría está diseñada para ayudarte a identificar rápidamente el tipo de cambios realizados.
+Organiza tus commits de manera **más clara, visual y profesional**.\
+Cada emoji ayuda a identificar rápidamente el tipo de cambio realizado.
 
-Ejemplo : 
-```
-git commit -m ":sparkles: Añadir función de búsqueda avanzada con filtros personalizados"
-```
-
-## 📈 Funcionalidades y Mejoras
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| ✨ | ```:sparkles:```| Nueva funcionalidad |
-| 🎨 | ```:art:``` | Diseño de UI/UX |
-| ♿ | ```:wheelchair:``` | Mejora de accesibilidad |
-| 🔍 | ```:mag:``` | SEO |
-| 📱 | ```:iphone:``` | Diseño responsivo |
-| 🔒 | ```:lock:``` | Seguridad |
-| 🔗 | ```:link:``` | Integración |
-| 🎉 | ```:tada:``` | Inicio de proyecto |
-| 🔩 | ```:nut_and_bolt:``` | Configuración |
-
-## 🐛 Correcciones de Errores
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🐛 | ```:bug:``` | Corrección de error |
-| 🚑 | ```:ambulance:``` | Corrección crítica |
-| 🩹 | ```:adhesive_bandage:``` | Corrección simple |
-| 🔇 | ```:mute:``` | Corrección de logs innecesarios |
-
-
-## 📚 Documentación
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 📚 | ```:books:``` | Documentación general |
-| 📝 | ```:memo:``` | Actualización de README |
-| 📖 | ```:book:``` | Guías de usuario |
-| 📄 | ```:page_facing_up:``` | Licencia |
-| 🌐 | ```:globe_with_meridians:``` | Enlaces en la documentación |
-| 📊 | ```:bar_chart:``` | Diagramas o estadísticas |
-
-
-## 💎 Estilos de Código y Refactorización
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🔨 | ```:hammer:``` | Refactorización de código |
-| 🧹 | ```:broom:``` | Limpieza de código |
-| ✂️ | ```:scissors:``` | Eliminación de código |
-| 🧩 | ```:puzzle_piece:``` | Modularización |
-| 🚚 | ```:truck:``` | Mover/Renombrar archivos |
-| 👕 | ```:shirt:``` | Linting (corrección de estilo) |
-
-## 🚨 Pruebas
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🚨 | ```:rotating_light:``` | Añadir pruebas |
-| 🧪 | ```:test_tube:``` | Pruebas unitarias |
-| 🔬 | ```:microscope:``` | Pruebas de integración |
-| ✅ | ```:white_check_mark:``` | Pruebas aprobadas |
-| 🤖 | ```:robot:``` | Pruebas automatizadas |
-| 🧭 | ```:compass:``` | Pruebas de exploración |
-
-
-## 📦 Construcción y Dependencias
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 📦 | ```:package:``` | Gestión de dependencias |
-| 🐳 | ```:whale:``` | Docker |
-| 🧰 | ```:toolbox:``` | Configuración de herramientas |
-| ⬆️ | ```:arrow_up:``` | Actualizar dependencias |
-| ⬇️ | ```:arrow_down:``` | Degradar dependencias |
-| 📌 | ```:pushpin:``` | Fijar versiones de dependencias |
-
-
-## 🚀 Despliegue y CI/CD
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🚀 | ```:rocket:``` | Despliegue |
-| ⚙️ | ```:gear:``` | Configuración de CI/CD |
-| 🌱 | ```:seedling:``` | Despliegue en desarrollo |
-| 🌳 | ```:deciduous_tree:``` | Despliegue en producción |
-| ⏪ | ```:rewind:``` | Rollback |
-| 🏷️ | ```:label:``` | Versión o release |
-| 🚢 | ```:ship:``` | Entrega de código |
-
-
-## 🛡️ Seguridad
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🛡️ | ```:shield:``` | Seguridad general |
-| 🔐 | ```:closed_lock_with_key:``` | Encriptación |
-| 🕵️ | ```:detective:``` | Auditoría |
-| 🚫 | ```:no_entry_sign:``` | Bloqueo de vulnerabilidad |
-| 🔑 | ```:key:``` | Autenticación |
-| 🛂 | ```:passport_control:``` | Autorización |
-
-
-## 🏗️ Infraestructura
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🏗️ | ```:building_construction:``` | Cambios de infraestructura |
-| ☁️ | ```:cloud:``` | Cloud |
-| 🗄️ | ```:file_cabinet:``` | Base de datos |
-| 🖥️ | ```:desktop_computer:``` | Servidores |
-| 🔌 | ```:electric_plug:``` | Conexiones eléctricas o de red |
-
-
-## 🛠️ Mantenimiento
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🛠️ | ```:hammer_and_wrench:``` | Mantenimiento general |
-| 📤 | ```:outbox_tray:``` | Migración de datos |
-| 🔧 | ```:wrench:``` | Ajustes menores |
-
-
-## ⚡ Optimización
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| ⚡ | ```:zap:``` | Optimización de rendimiento |
-| 🗜️ | ```:compression:``` | Compresión de recursos |
-| 📉 | ```:chart_with_downwards_trend:``` | Reducción de recursos o costes |
-| ⏱️ | ```:stopwatch:``` | Mejora de tiempos de respuesta |
-
-
-## 🗑️ Remoción de Características
-
-| Emoji | Código | Tipo |
-|-------|--------|------|
-| 🗑️ | ```:wastebasket:``` | Eliminación de funcionalidad |
-| 💀 | ```:skull:``` | Deprecación |
-| ❌ | ```:x:``` | Remoción total |
-| 🚫 | ```:no_entry_sign:``` | Bloquear acceso o uso |
-
-
+> 💡 **Ejemplo**:
+>
+> ```bash
+> git commit -m ":sparkles: Añadir función de búsqueda avanzada con filtros personalizados"
+> ```
 
 ---
-gperzal/GitCommitEmoji
+
+## 🧹📈 Funcionalidades y Mejoras
+Agrega nuevas características o mejora el sistema existente.
+| Emoji | Código           | Tipo                                     |
+| ----- | ---------------- | ---------------------------------------- |
+| ✨     | `:sparkles:`     | Nueva funcionalidad                      |
+| 🎨    | `:art:`          | Diseño de UI/UX                          |
+| ♿     | `:wheelchair:`   | Mejora de accesibilidad                  |
+| 🔍    | `:mag:`          | Optimización SEO                         |
+| 📱    | `:iphone:`       | Diseño responsivo                        |
+| 🔒    | `:lock:`         | Seguridad general                        |
+| 🔗    | `:link:`         | Integración externa                      |
+| 🧠    | `:brain:`        | Mejora lógica/inteligencia del sistema   |
+| 🌟    | `:star2:`        | Mejora notable de experiencia de usuario |
+| 🎉    | `:tada:`         | Inicio del proyecto                      |
+| 🔩    | `:nut_and_bolt:` | Configuración del sistema                |
+
+---
+## 👾🚑 Correcciones de Errores
+Corrige errores críticos o ajustes menores en el código.
+| Emoji | Código               | Tipo                          |
+| ----- | -------------------- | ----------------------------- |
+| 🐛    | `:bug:`              | Corrección de bug             |
+| 🚑    | `:ambulance:`        | Hotfix urgente                |
+| 🩹    | `:adhesive_bandage:` | Fix menor                     |
+| 🔇    | `:mute:`             | Silenciar logs innecesarios   |
+| 🔧    | `:wrench:`           | Ajuste fino de comportamiento |
+
+---
+
+## 📚📝 Documentación
+Todo lo relacionado con documentación técnica o funcional.
+| Emoji | Código                   | Tipo                           |
+| ----- | ------------------------ | ------------------------------ |
+| 📚    | `:books:`                | Documentación general          |
+| 📝    | `:memo:`                 | README o documentación técnica |
+| 📖    | `:book:`                 | Guías y manuales               |
+| 📄    | `:page_facing_up:`       | Licencias y legales            |
+| 🌐    | `:globe_with_meridians:` | Enlaces y referencias          |
+| 📊    | `:bar_chart:`            | Estadísticas y diagramas       |
+
+---
+
+## 💫🧹 Refactorización y Estilo
+Limpieza, refactorización y organización del código.
+| Emoji | Código           | Tipo                         |
+| ----- | ---------------- | ---------------------------- |
+| 🔨    | `:hammer:`       | Refactor general             |
+| 🧹    | `:broom:`        | Limpieza de código           |
+| ✂️    | `:scissors:`     | Eliminación de código muerto |
+| 🪩    | `:puzzle_piece:` | Modularización               |
+| 🚚    | `:truck:`        | Mover/renombrar archivos     |
+| 👕    | `:shirt:`        | Corrección de estilo (lint)  |
+| 🧱    | `:bricks:`       | Reestructuración interna     |
+
+---
+
+## 🧪✅ Pruebas
+Todo lo relacionado con pruebas manuales o automáticas.
+| Emoji | Código               | Tipo                  |
+| ----- | -------------------- | --------------------- |
+| 🚨    | `:rotating_light:`   | Nuevas pruebas        |
+| 🧪    | `:test_tube:`        | Unit tests            |
+| 🔬    | `:microscope:`       | Integration tests     |
+| ✅     | `:white_check_mark:` | Pruebas exitosas      |
+| 🤖    | `:robot:`            | Automatización        |
+| 🧽    | `:compass:`          | Exploración manual    |
+| 📋    | `:clipboard:`        | Test plan / checklist |
+
+---
+
+## 📆🐫 Dependencias y Build
+Gestión de paquetes, Docker y herramientas.
+| Emoji | Código         | Tipo                   |
+| ----- | -------------- | ---------------------- |
+| 📦    | `:package:`    | Nuevas dependencias    |
+| 🐳    | `:whale:`      | Docker                 |
+| 🧰    | `:toolbox:`    | Herramientas/config    |
+| ⬆️    | `:arrow_up:`   | Upgrade de versiones   |
+| ⬇️    | `:arrow_down:` | Downgrade de versiones |
+| 📌    | `:pushpin:`    | Versiones fijadas      |
+| 🔁    | `:repeat:`     | Rebuild/reinstalación  |
+
+---
+
+## 🚀🌳 CI/CD y Despliegue
+Automatización y publicación de código.
+| Emoji | Código             | Tipo               |
+| ----- | ------------------ | ------------------ |
+| 🚀    | `:rocket:`         | Deploy             |
+| ⚙️    | `:gear:`           | CI/CD pipeline     |
+| 🌱    | `:seedling:`       | Deploy dev/staging |
+| 🌳    | `:deciduous_tree:` | Deploy producción  |
+| ⏪     | `:rewind:`         | Rollback           |
+| 🏷️   | `:label:`          | Tag de versión     |
+| 🛥️   | `:ship:`           | Entrega de versión |
+
+---
+
+## 🛡️🔑 Seguridad
+Refuerza la protección del sistema y los datos.
+| Emoji | Código                   | Tipo                     |
+| ----- | ------------------------ | ------------------------ |
+| 🛡️   | `:shield:`               | Seguridad general        |
+| 🔐    | `:closed_lock_with_key:` | Encriptación             |
+| 🕵️   | `:detective:`            | Auditoría                |
+| 🚫    | `:no_entry_sign:`        | Bloqueo de acceso        |
+| 🔑    | `:key:`                  | Autenticación            |
+| 🛂    | `:passport_control:`     | Autorización             |
+| 🫯    | `:fire_extinguisher:`    | Prevención de incidentes |
+
+---
+
+## 🏟️☁️ Infraestructura
+Cambios en servicios, servidores, base de datos o red.
+| Emoji | Código                    | Tipo                        |
+| ----- | ------------------------- | --------------------------- |
+| 🏟️   | `:building_construction:` | Infraestructura general     |
+| ☁️    | `:cloud:`                 | Servicios en la nube        |
+| 📄    | `:file_cabinet:`          | Cambios en la base de datos |
+| 🖥️   | `:desktop_computer:`      | Servidores                  |
+| 🔌    | `:electric_plug:`         | Conectividad y redes        |
+| 🛰️   | `:artificial_satellite:`  | Monitorización remota       |
+
+---
+
+## 🚰📤 Mantenimiento y Migraciones
+Mejoras menores o ajustes técnicos necesarios.
+| Emoji | Código                | Tipo                     |
+| ----- | --------------------- | ------------------------ |
+| 🚰    | `:hammer_and_wrench:` | Mantenimiento general    |
+| 📤    | `:outbox_tray:`       | Migración de datos       |
+| ⛏️    | `:pick:`              | Modificaciones internas  |
+| 🪛    | `:screwdriver:`       | Ajustes técnicos menores |
+
+---
+
+## ⚡️📉 Optimización
+Aumenta la eficiencia del sistema o aplicación.
+| Emoji | Código                         | Tipo                           |
+| ----- | ------------------------------ | ------------------------------ |
+| ⚡️    | `:zap:`                        | Mejora de rendimiento          |
+| 📜    | `:compression:`                | Compresión                     |
+| 📉    | `:chart_with_downwards_trend:` | Reducción de costes            |
+| ⏱️    | `:stopwatch:`                  | Mejora en tiempos de respuesta |
+| 🧪    | `:alembic:`                    | Experimentos de performance    |
+
+---
+
+## 🗑️💀 Remoción y Deprecación
+Remueve código, funciones o recursos obsoletos.
+| Emoji | Código            | Tipo                         |
+| ----- | ----------------- | ---------------------------- |
+| 🗑️   | `:wastebasket:`   | Eliminación de funcionalidad |
+| 💀    | `:skull:`         | Funcionalidad obsoleta       |
+| ❌     | `:x:`             | Eliminación definitiva       |
+| 🚫    | `:no_entry_sign:` | Bloqueo de uso o acceso      |
+
+---
+
+## 🎯 Bonus: Personaliza tu flujo
+
+- Puedes guardar estos códigos como **snippets**, **alias**, o usarlos con herramientas como [**Commitizen**](https://github.com/commitizen/cz-cli) o [**Conventional Commits**](https://www.conventionalcommits.org/).
+- También puedes hacer un alias:
+  ```bash
+  alias gc='git commit -m'
+  ```
+
+---
+
 Utiliza estos emojis para hacer que tus commits sean más informativos y fáciles de seguir. ¡Happy coding! 😊
+
+
+
