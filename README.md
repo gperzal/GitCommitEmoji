@@ -119,7 +119,7 @@ Refuerza la protección del sistema y los datos.
 | 🚫    | `:no_entry_sign:`        | Bloqueo de acceso        |
 | 🔑    | `:key:`                  | Autenticación            |
 | 🛂    | `:passport_control:`     | Autorización             |
-| 🫯    | `:fire_extinguisher:`    | Prevención de incidentes |
+| 🧯  | `:fire_extinguisher:`    | Prevención de incidentes |
 
 ---
 
